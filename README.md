@@ -28,10 +28,6 @@ make menuconfig
 https://github.com/coolsnowwolf/lede/tree/master/package/lean/default-settings  
 
 
-### r8125
-this repo  
-
-
 ### Argon 主题
 https://github.com/jerrykuku/luci-theme-argon/tree/18.06  
 
@@ -138,6 +134,9 @@ https://github.com/destan19/OpenAppFilter
 ### 网速测试
 https://github.com/sirpdboy/netspeedtest  
 
+### 流量统计
+https://github.com/brvphoenix/wrtbwmon  
+https://github.com/brvphoenix/luci-app-wrtbwmon  
 
 ### 全能推送
 https://github.com/zzsj0928/luci-app-pushbot  
